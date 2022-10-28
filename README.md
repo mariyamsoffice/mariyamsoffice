@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariyam Sheikh</h1>
 <h3 align="center">Computer Systems Engineer 2023 and Machine Learning Aspirant</h3>
 
-<p>Getting computers to learn from data has always fascinated me. I've so far worked on supervised model training using Python. In 2022, I conducted a study on Python preference in Pakistani developer community. </p>
+<p>Getting computers to learn from data has always fascinated me. In 2022, I conducted a study on Python preference in Pakistani developer community.  I've so far worked on supervised model training using Python including classification and regression problems.</p>
 
 - 🔭 I’m currently working on [a Movie Recommendation System](https://github.com/mariyamsoffice/movie-recommender)
 
